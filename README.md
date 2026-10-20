@@ -1,25 +1,24 @@
 # Hi, saya Lee Xin Ying 👋
 
-Selamat datang ke profil GitHub saya! Saya baru sahaja bermula dalam dunia pengaturcaraan dan pembangunan perisian.
+Selamat datang ke profil GitHub saya! Saya pelajar di **Universiti Teknologi Malaysia (UTM)** yang berminat dalam pembangunan perisian dan pengaturcaraan.
 
 ---
 
 ### 🚀 Berkenaan Saya
-- 🎓 **Pendidikan/Status:** [Contoh: Pelajar Sains Komputer / Baru belajar mengod]
-- 💻 **Bahasa & Peralatan:** HTML, CSS, JavaScript, Git & GitHub
-- 🎯 **Matlamat:** Ingin membina projek web pertama saya tahun ini
-- 📫 **Hubungi Saya:** [Emel anda] | [LinkedIn/Sosial Media anda]
+- 🎓 **Institusi:** Universiti Teknologi Malaysia (UTM)
+- 💻 **Bahasa Pengaturcaraan:** Python, C++, SQL
+- 🎯 **Fokus:** Memantapkan kemahiran sains komputer & membina projek bermanfaat
+- 📫 **Emel:** [leexin.ying@graduate.utm.my](mailto:leexin.ying@graduate.utm.my)
 
 ---
 
-### 🛠️ Kemahiran (Skills)
-- **Bahasa Pengaturcaraan:** Python, JavaScript (Sedang dipelajari)
-- **Kawalan Versi:** Git, GitHub
+### 🛠️ Kemahiran & Tools
+- **Bahasa:** `Python` | `C++` | `SQL`
+- **Peralatan:** Git, GitHub, VS Code
 
 ---
 
-⚡ *Petua:* Terus belajar dan jangan takut untuk melakukan kesilapan semasa membuat *commit*!
-<!--
+⚡ *Petua:* Code is like humor. When you have to explain it, it’s bad!
 **xinying313/xinying313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
